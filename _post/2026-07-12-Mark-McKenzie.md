@@ -10,4 +10,4 @@ This my very first blog post created with GitHub Pages and Jekyll.
 ### What I a'm working on:
 * Setting up my custom site theme
 * Learning Markdown formatting
-* *Publishing posts directly from my GitHub repository
+* Publishing posts directly from my GitHub repository
